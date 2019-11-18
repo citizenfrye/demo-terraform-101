@@ -3,6 +3,7 @@ terraform {
 }
 
 provider "aws" {
+  #Comments to make it do something
   version = ">= 2.27.0"
 }
 
